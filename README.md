@@ -29,6 +29,13 @@ Zomato Restaurant Dataset
 - Restaurant Distribution Analysis
 - Data Visualization
 
+## Business Questions Answered
+- How online ordering affects restaurant popularity
+- Cost distribution of restaurants
+- Rating trends across restaurants
+- Popular cuisines among customers
+- Relationship between cost and ratings
+
 ## Project Structure
 
 Zomato-Data-Analysis/
@@ -51,6 +58,16 @@ Zomato-Data-Analysis/
 - Data Visualization
 - Business Insight Generation
 - Python Programming
+- Data Analysis
+
+## Key Insights
+- Restaurants with online ordering tend to attract more customers.
+- Restaurant ratings vary significantly across cuisines.
+- Cost and ratings show interesting patterns that can help businesses optimize pricing strategies.
+- Customer preferences can be identified through cuisine and rating analysis.
 
 ## Author
 Sandhya
+
+## Connect With Me
+GitHub: https://github.com/sandhyassssm
